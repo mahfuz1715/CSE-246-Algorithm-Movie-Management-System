@@ -6,7 +6,7 @@ The system is designed to work with movie datasets of up to **10,000 entries** a
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The main goal of this project is to build an efficient movie management system that can:
 
@@ -20,7 +20,7 @@ The project is implemented in **C** with file-based input and output.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The project focuses on applying algorithmic problem-solving techniques to a practical movie-management scenario.
 
@@ -34,7 +34,7 @@ The project focuses on applying algorithmic problem-solving techniques to a prac
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 ### 1. Longest Common Subsequence (LCS)
 
@@ -116,7 +116,7 @@ where:
 
 ---
 
-## 🏗️ Project Workflow
+## Project Workflow
 
 The complete project follows this workflow:
 
@@ -221,7 +221,7 @@ time_results.txt
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Movie-Management/
@@ -238,7 +238,7 @@ Movie-Management/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 To compile and run the project, you need:
 
@@ -248,7 +248,7 @@ To compile and run the project, you need:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Compile the input generator
 
@@ -301,7 +301,7 @@ You can then open these files to inspect the selected movies, their franchise-ba
 
 ---
 
-## 📄 Input Format
+## Input Format
 
 The generated input file starts with the viewing-time limit:
 
@@ -323,7 +323,7 @@ Movie1 120 3 Action Comedy Drama FranchiseA 2
 
 ---
 
-## 📤 Output
+## Output
 
 The generated `output.txt` contains two main sections:
 
@@ -351,7 +351,7 @@ These results can be used to evaluate and compare the computational cost of the 
 
 ---
 
-## ⏱️ Overall Time Complexity
+## Overall Time Complexity
 
 Based on the project implementation and the analysis in the report:
 
@@ -366,7 +366,7 @@ The overall complexity is dominated by the pairwise LCS computation.
 
 ---
 
-## ⚠️ Challenges Considered
+## Challenges Considered
 
 The project also highlights several algorithmic challenges:
 
@@ -378,7 +378,7 @@ For a dataset of up to 10,000 movies, these considerations become important when
 
 ---
 
-## 🚀 Possible Future Improvements
+## Possible Future Improvements
 
 The current system can be extended in several ways:
 
@@ -391,7 +391,7 @@ The current system can be extended in several ways:
 
 ---
 
-## 👥 Project Information
+## Project Information
 
 **Course:** CSE 246 — Algorithm  
 **Project:** Smart Movie Recommendations / Movie Management  
@@ -400,7 +400,7 @@ The current system can be extended in several ways:
 
 ---
 
-## 📚 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 This project provides practical implementation of:
 
@@ -417,7 +417,7 @@ This project provides practical implementation of:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The Smart Movie Recommendations project demonstrates how classical algorithms can be combined to solve different parts of a practical movie-management problem.
 
